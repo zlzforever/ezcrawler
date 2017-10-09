@@ -2,7 +2,7 @@
 
 ### SHOW
 
-[![DEMO](https://github.com/zlzforever/ezcrawler/raw/master/img/demo_20171009225452.JPG)](http://121.199.250.112/wp-content/uploads/2017/10/demo.mp4?_=2)
+[![DEMO](https://github.com/zlzforever/contents/raw/master/demo.gif)](https://github.com/zlzforever/contents/raw/master/demo.gif)
 
 ### DEVELOP ENVIROMENT
 
