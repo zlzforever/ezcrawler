@@ -1,0 +1,50 @@
+{
+   "background": {
+      "scripts": [
+		"Scripts/Dexie.js", 
+		"runbackground.min.js"]
+   },
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_title": "EZCrawler"
+   },
+   "options_ui": {
+		"page": "options.html",
+		"chrome_style": true,
+		"open_in_tab":true
+	},
+   "content_scripts": [ {
+      "js": [ 
+		"scripts/sea.js",
+		"scripts/Connector.js",
+		"scripts/jquery.js",
+		"scripts/layer.js",
+		"scripts/ztree.js",
+		"scripts/Spider.XPathGenerator.js",
+		"scripts/Spider.ElementSelector.js",
+		"scripts/Spider.SmartMode.js",
+		"scripts/Spider.Main.js",
+		"scripts/SpiderEngine.js",
+		"lang/zh-CN.js",
+		"lang/en-US.js",
+		"scripts/adapter.js"
+		],
+      "matches": [ "http://*/*","https://*/*" ]
+   } ],
+   "description": "打开网页，点点鼠标，采集数据就是这么简单",
+   "externally_connectable": {
+      "accepts_tls_channel_id": false,
+      "ids": [ "*" ]
+   },
+   "icons": {
+      "128": "128.png",
+      "16": "16.png",
+      "48": "48.png"
+   },
+   "manifest_version": 2,
+   "name": "EZCrawler",
+   "permissions": [ "cookies", "tabs", "notifications", "background", "contextMenus", "*://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.0",
+   "web_accessible_resources": [ "*", "*/*" ]
+}

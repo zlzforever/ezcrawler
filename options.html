@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<title>My Tasks</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="css/theme.css"></link>
+		<link rel="stylesheet" type="text/css" href="css/layer.css"></link>
+		<script type="text/javascript" src="scripts/jquery.js"></script>
+		<script type="text/javascript" src="scripts/layer.js"></script>
+		<script type="text/javascript" src="scripts/Dexie.js"></script>
+		<script type="text/javascript" src="scripts/options.js"></script>
+		<style type="text/css">
+			a{text-decoration:none;}
+			.a-upload {
+				padding: 2px 5px;
+				height: 20px;
+				line-height: 20px;
+				position: relative;
+				cursor: pointer;
+				background: #fafafa;
+				border: 1px solid #ddd;
+				border-radius: 4px;
+				overflow: hidden;
+				display: inline-block;
+				*display: inline;
+				*zoom: 1
+			}
+
+			.a-upload  input {
+				position: absolute;
+				font-size: 100px;
+				right: 0;
+				top: 0;
+				opacity: 0;
+				filter: alpha(opacity=0);
+				cursor: pointer
+			}
+
+			.a-upload:hover {
+				color: #444;
+				background: #eee;
+				border-color: #ccc;
+				text-decoration: none
+			}
+		</style>
+	</head>
+	<body>
+		<h1>My Tasks</h1>
+		<div style="line-height:25px;">
+		<span>Manage：</span>
+			<a href="javascript:;" class="a-upload">
+				<input type="file" id="importTask">Import Task
+			</a>
+		</div>
+		<table id="dataTable" class="gridtable" cellspacing="0" cellpadding="0" border="0">
+			<thead class="gridHeader">
+				<th>Num.</th>
+				<th>Name</th>
+				<th>Last execute time</th>
+				<th>Operation</th>
+			</thead>
+			<tbody>
+			</tbody>
+		</table>
+	</body>
+</html>
