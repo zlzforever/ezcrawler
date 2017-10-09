@@ -2,7 +2,9 @@
 
 ### SHOW
 
-<iframe width="560" height="315" src="https://raw.githubusercontent.com/zlzforever/contents/master/ezcrawlerdemo.mp4" frameborder="0" allowfullscreen></iframe>
+<video id="demo">
+  <source id="mp4" src="https://raw.githubusercontent.com/zlzforever/contents/master/ezcrawlerdemo.mp4">
+</video>
 
 ### DEVELOP ENVIROMENT
 
