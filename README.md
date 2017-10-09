@@ -20,3 +20,11 @@
 - 点击插件弹窗上的"完成"铵钮后，点击"测试"铵钮查看采集结果是否符合预期, 如果符合预期关闭测试结果页面后, 输入任务名称并提并任务
 - 右键 Ez 插件铵钮, 并点击"任务管理", 找到新建的任务并点击"Run"
 - 运行结束后, 点击"Data"->"Export"导出数据
+
+###  DISCLAIMER
+
+EZcrawler is in active use at My company and constantly evolving. There will be bugs.
+
+### LICENSE
+
+https://github.com/zlzforever/ezcrawler/raw/master/LICENSE
