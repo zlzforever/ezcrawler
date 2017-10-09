@@ -2,9 +2,7 @@
 
 ### SHOW
 
-<video id="demo">
-  <source id="mp4" src="https://raw.githubusercontent.com/zlzforever/contents/master/ezcrawlerdemo.mp4">
-</video>
+![ezcrawler](https://raw.githubusercontent.com/zlzforever/contents/master/ezcrawlerdemo.mp4)
 
 ### DEVELOP ENVIROMENT
 
