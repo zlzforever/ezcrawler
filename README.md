@@ -2,7 +2,7 @@
 
 ### SHOW
 
-[![DEMO](https://asciinema.org/a/42383.png)](http://www.pa1pa.com/wp-content/uploads/2017/10/demo.mp4?_=2)
+[![DEMO](https://github.com/zlzforever/ezcrawler/raw/master/img/demo_20171009225452.JPG)](http://121.199.250.112/wp-content/uploads/2017/10/demo.mp4?_=2)
 
 ### DEVELOP ENVIROMENT
 
