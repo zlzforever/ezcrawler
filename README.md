@@ -1,5 +1,9 @@
 # EZcrawler
 
+### SHOW
+
+<iframe width="560" height="315" src="https://raw.githubusercontent.com/zlzforever/contents/master/ezcrawlerdemo.mp4" frameborder="0" allowfullscreen></iframe>
+
 ### DEVELOP ENVIROMENT
 
 - Chrome 47 or later
