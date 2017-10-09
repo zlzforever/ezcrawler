@@ -2,7 +2,7 @@
 
 ### SHOW
 
-![ezcrawler](https://raw.githubusercontent.com/zlzforever/contents/master/ezcrawlerdemo.jpg)
+![ezcrawler](http://www.pa1pa.com/wp-content/uploads/2017/10/demo.mp4?_=2)
 
 ### DEVELOP ENVIROMENT
 
@@ -10,20 +10,20 @@
 
 ### INSTALL CHROME EXTENSION
 
-- ¸´ÖÆ´úÂëÔÚÄ¿±êÎÄ¼þ¼Ð
-- ÔÚµØÖ·À¸ÖÐÊäÈë chrome://extensions/ ºó»Ø³µ, »òÕßµã»÷ä¯ÀÀÆ÷ÓÒÉÏ½Ç"Èý"Í¼±ê->"¸ü¶à¹¤¾ß"->"À©Õ¹³ÌÐò"
-- Ñ¡ÖÐÀ©Õ¹³ÌÐòÒ³ÃæÖÐÉÏµÄÑ¡Ôñ¿ò: ¿ª·¢ÕßÄ£Ê½
-- µã»÷"¼ÓÔØÒÑ½âÑ¹µÄÀ©Õ¹³ÌÐò", Ñ¡Ôñ´úÂëËùÔÚÎÄ¼þ¼Ð²¢È·¶¨
+- å¤åˆ¶ä»£ç åœ¨ç›®æ ‡æ–‡ä»¶å¤¹
+- åœ¨åœ°å€æ ä¸­è¾“å…¥ chrome://extensions/ åŽå›žè½¦, æˆ–è€…ç‚¹å‡»æµè§ˆå™¨å³ä¸Šè§’"ä¸‰"å›¾æ ‡->"æ›´å¤šå·¥å…·"->"æ‰©å±•ç¨‹åº"
+- é€‰ä¸­æ‰©å±•ç¨‹åºé¡µé¢ä¸­ä¸Šçš„é€‰æ‹©æ¡†: å¼€å‘è€…æ¨¡å¼
+- ç‚¹å‡»"åŠ è½½å·²è§£åŽ‹çš„æ‰©å±•ç¨‹åº", é€‰æ‹©ä»£ç æ‰€åœ¨æ–‡ä»¶å¤¹å¹¶ç¡®å®š
 
 ### BASE USAGE
 
-- ´ò¿ª°®ÆæÒÕËùÓÐÓ°Æ¬µÄÒ³Ãæ: http://list.iqiyi.com/www/1/-------------11-1-1-iqiyi--.html
-- µã»÷ÓÒÉÏ½Ç Ez ²å¼þ°´Å¥
-- µã»÷Ó°Æ¬Ãû³Æ, ÆÀ·Ö, Ö÷ÑÝ
-- µã»÷²å¼þµ¯´°ÖÐ"·Ö²¼ÉèÖÃ"µÄÑ¡Ôñï§Å¥ºó, µã»÷Ò³ÃæÉÏÄ³¸öÔªËØÄÜ¹»ÍêÈ«°üº¬ËùÓÐµÄ·ÖÒ³
-- µã»÷²å¼þµ¯´°ÉÏµÄ"Íê³É"ï§Å¥ºó£¬µã»÷"²âÊÔ"ï§Å¥²é¿´²É¼¯½á¹ûÊÇ·ñ·ûºÏÔ¤ÆÚ, Èç¹û·ûºÏÔ¤ÆÚ¹Ø±Õ²âÊÔ½á¹ûÒ³Ãæºó, ÊäÈëÈÎÎñÃû³Æ²¢Ìá²¢ÈÎÎñ
-- ÓÒ¼ü Ez ²å¼þï§Å¥, ²¢µã»÷"ÈÎÎñ¹ÜÀí", ÕÒµ½ÐÂ½¨µÄÈÎÎñ²¢µã»÷"Run"
-- ÔËÐÐ½áÊøºó, µã»÷"Data"->"Export"µ¼³öÊý¾Ý
+- æ‰“å¼€çˆ±å¥‡è‰ºæ‰€æœ‰å½±ç‰‡çš„é¡µé¢: http://list.iqiyi.com/www/1/-------------11-1-1-iqiyi--.html
+- ç‚¹å‡»å³ä¸Šè§’ Ez æ’ä»¶æŒ‰é’®
+- ç‚¹å‡»å½±ç‰‡åç§°, è¯„åˆ†, ä¸»æ¼”
+- ç‚¹å‡»æ’ä»¶å¼¹çª—ä¸­"åˆ†å¸ƒè®¾ç½®"çš„é€‰æ‹©é“µé’®åŽ, ç‚¹å‡»é¡µé¢ä¸ŠæŸä¸ªå…ƒç´ èƒ½å¤Ÿå®Œå…¨åŒ…å«æ‰€æœ‰çš„åˆ†é¡µ
+- ç‚¹å‡»æ’ä»¶å¼¹çª—ä¸Šçš„"å®Œæˆ"é“µé’®åŽï¼Œç‚¹å‡»"æµ‹è¯•"é“µé’®æŸ¥çœ‹é‡‡é›†ç»“æžœæ˜¯å¦ç¬¦åˆé¢„æœŸ, å¦‚æžœç¬¦åˆé¢„æœŸå…³é—­æµ‹è¯•ç»“æžœé¡µé¢åŽ, è¾“å…¥ä»»åŠ¡åç§°å¹¶æå¹¶ä»»åŠ¡
+- å³é”® Ez æ’ä»¶é“µé’®, å¹¶ç‚¹å‡»"ä»»åŠ¡ç®¡ç†", æ‰¾åˆ°æ–°å»ºçš„ä»»åŠ¡å¹¶ç‚¹å‡»"Run"
+- è¿è¡Œç»“æŸåŽ, ç‚¹å‡»"Data"->"Export"å¯¼å‡ºæ•°æ®
 
 ###  DISCLAIMER
 
