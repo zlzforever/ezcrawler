@@ -2,7 +2,7 @@
 
 ### SHOW
 
-![ezcrawler](https://raw.githubusercontent.com/zlzforever/contents/master/ezcrawlerdemo.mp4)
+![ezcrawler](https://raw.githubusercontent.com/zlzforever/contents/master/ezcrawlerdemo.jpg)
 
 ### DEVELOP ENVIROMENT
 
